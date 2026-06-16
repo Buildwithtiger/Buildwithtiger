@@ -10,14 +10,14 @@
 
 <!--- PROFILE VIEWS --->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tigranomkar09&label=✨%20PROFILE%20VIEWS&color=e63946&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Buildwithtiger&label=✨%20PROFILE%20VIEWS&color=e63946&style=flat-square" alt="views" />
 </p>
 
 <!--- LIVE METRICS (FOLLOWERS FIXED WITH AUTO-UPDATE) --->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/tigranomkar09?logo=github&style=for-the-badge&color=0D1117&labelColor=e63946&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/tigranomkar09?logo=star&style=for-the-badge&color=0D1117&labelColor=e63946&label=STARS" />
-  <img src="https://img.shields.io/github/last-commit/tigranomkar09/tigranomkar09?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT&nocache=1" />
+  <img src="https://img.shields.io/github/followers/Buildwithtiger?logo=github&style=for-the-badge&color=0D1117&labelColor=e63946&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/Buildwithtiger?logo=star&style=for-the-badge&color=0D1117&labelColor=e63946&label=STARS" />
+  <img src="https://img.shields.io/github/last-commit/Buildwithtiger/Buildwithtiger?logo=git&style=for-the-badge&color=0D1117&labelColor=e63946&label=LAST%20COMMIT&nocache=1" />
 </p>
 
 <!--- ABOUT ME --->
@@ -31,7 +31,7 @@
         <li>‣ <b style="color: #e63946;">Leveling up:</b> Advanced React.js, Node.js & system design</li>
         <li>‣ <b style="color: #e63946;">Ask me about:</b> PHP, Java, Python, Android, Pandas</li>
         <li>‣ <b style="color: #e63946;">Reach me:</b> <code>tigranomkar09@gmail.com</code></li>
-        <li>‣ <b style="color: #e63946;">Experience:</b> <a href="in/onkar-sawant-20264a396" style="color:#e63946">LinkedIn</a> | <a href="https://tigranomkar09.io" style="color:#e63946">Portfolio</a></li>
+        <li>‣ <b style="color: #e63946;">Experience:</b> <a href="in/onkar-sawant-20264a396" style="color:#e63946">LinkedIn</a> | <a href="https://Buildwithtiger.io" style="color:#e63946">Portfolio</a></li>
         <li>‣ <b style="color: #e63946;">Debugging superpower:</b> <code>print()</code> – simple, honest, effective.</li>
       </ul>
     </td>
@@ -63,12 +63,12 @@
 <!--- STREAK STATS (FRESH START) --->
 <h3 align="center">🔥 GitHub Streak Stats</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tigranomkar09&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&_t=20260617" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Buildwithtiger&theme=radical&hide_border=true&background=0D1117&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&_t=20260617" alt="GitHub Streak" />
 </p>
 
 <!--- ACTIVITY GRAPH --->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tigranomkar09&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buildwithtiger&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=e63946&line=e63946&point=ffffff&radius=8" width="95%" />
 </p>
 
 <!--- QUOTE & SPOTIFY --->
