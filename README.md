@@ -146,7 +146,7 @@
 
 ---
 
-<!-- ===== SOCIALS & SUPPORT ===== -->
+
 <h3 align="center" style="color: #00d4ff; font-weight: 700; font-size: 1.8em; margin-bottom: 4px;">
   🌐 Connect &amp; Support
 </h3>
