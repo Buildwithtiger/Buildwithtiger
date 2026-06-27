@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey%2C+I'm+Tiger;Code.+Build.+Ship.+Repeat.;Full‑Stack+Developer;PHP+%7C+Java+%7C+Python;Turning+ideas+into+reality" alt="Typing SVG" />
 </p>
 
-<!-- ===== VISITOR BADGE ===== -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Buildwithtiger&label=%F0%9F%92%AB%20PROFILE%20VIEWS&color=7c3aed&style=flat-square" alt="views" />
   &nbsp;&nbsp;
