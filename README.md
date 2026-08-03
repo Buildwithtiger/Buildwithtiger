@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/github/followers/Buildwithtiger?label=%F0%9F%91%A5%20Followers&style=social" alt="followers" />
 </p>
 
----
-
-
 <table width="100%" style="border: none; background: transparent;">
   <tr>
     <td width="60%" valign="top" style="border: none; padding: 20px 20px 20px 0;">
