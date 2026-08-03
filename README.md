@@ -150,9 +150,6 @@
   <a href="https://buymeacoffee.com/vh6cy267vhg"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
----
-
-<!-- ===== FOOTER ===== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:1a1a2e&height=120&section=footer" width="100%" />
   <p style="color: #94a3b8; font-size: 1.05em; margin-top: 4px;">
