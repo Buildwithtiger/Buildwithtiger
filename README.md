@@ -101,9 +101,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buildwithtiger&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=7c3aed&line=00d4ff&point=ffffff&radius=10" width="95%" />
 </p>
 
----
-
-<!-- ===== QUOTE + SPOTIFY ===== -->
 <h3 align="center" style="color: #00d4ff; font-weight: 700; font-size: 1.8em; margin-bottom: 4px;">
   🧠 Dev Wisdom &amp; Vibes
 </h3>
