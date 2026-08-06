@@ -144,7 +144,6 @@
   <a href="https://wa.me/919075298386"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://buymeacoffee.com/vh6cy267vhg"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:1a1a2e&height=120&section=footer" width="100%" />
   <p style="color: #94a3b8; font-size: 1.05em; margin-top: 4px;">
