@@ -133,7 +133,6 @@
 <p align="center" style="color: #94a3b8; margin-top: -4px; margin-bottom: 16px;">
   <i>— let's build something amazing together —</i>
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/onkar-sawant-20264a396"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/tigranomkar_.09"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
