@@ -126,7 +126,6 @@
   <a href="https://humanbenchmark.com/tests/typing"><img src="https://img.shields.io/badge/⌨️_Typing_Test_for_Devs-3776AB?style=for-the-badge" /></a>
   <a href="https://codinggame.github.io/"><img src="https://img.shields.io/badge/🚀_Code_Clicker_(Incremental)-FFD700?style=for-the-badge" /></a>
 </p>
-
 <h3 align="center" style="color: #00d4ff; font-weight: 700; font-size: 1.8em; margin-bottom: 4px;">
   🌐 Connect &amp; Support
 </h3>
